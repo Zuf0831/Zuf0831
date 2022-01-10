@@ -11,7 +11,7 @@
 ### Contact
 - IG : @uzufy31
 - Discord : Kazuya#6596
-- 
+
 <!---
   HELLO , WORLD!
 --->
