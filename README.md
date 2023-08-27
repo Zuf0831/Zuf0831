@@ -7,10 +7,10 @@
 -  Mobile Apps
 -  Mechatronics 
 -  Computer Vision
+-  Game Development
 
 ### Contact
 - IG : @uzufy31
-- Discord : Kazuya#6596
 
 <!---
   HELLO , WORLD!
