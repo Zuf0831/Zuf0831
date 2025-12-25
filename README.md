@@ -10,8 +10,7 @@
 -  Game Development
 
 ### Contact
-- IG : @uzufy31
-
+- Discord : zu.31
 <!---
   HELLO , WORLD!
 --->
